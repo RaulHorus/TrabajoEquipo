@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+body {background-color:aliceblue
+}
+.title{text-transform: uppercase;}
+.linea{text-decoration: overline;
+		text-transform: capitalize;
+}
+.p1{font-family:Cambria, 'Hoefler Text', 'Liberation Serif', Times, 'Times New Roman', 'serif';
+	letter-spacing: 0.5px;
+	line-height: 1.5;
+}
+.p2{font-family:Cambria, 'Hoefler Text', 'Liberation Serif', Times, 'Times New Roman', 'serif';
+	letter-spacing: 0.5px;
+	line-height: 1.2;
+}
+.foot{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
